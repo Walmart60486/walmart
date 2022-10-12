@@ -1,4 +1,4 @@
-Hi we have starteda new file
+Hi we have started a new file
 
 These are the changes I am doing
 
